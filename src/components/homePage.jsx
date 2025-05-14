@@ -2,7 +2,7 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import heroImage from '../assets/images/hero-image.jpg'; 
+import heroImage from '../assets/images/hero-2.jpg'; 
 import EmaarImage from '../assets/images/Emaar.jpg';
 import AljiImage from '../assets/images/Alji-mi-real-Estate.jpg';
 import DubaiProperties from '../assets/images/Dubai-Properties.jpg';
