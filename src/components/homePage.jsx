@@ -2,18 +2,18 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import heroImage from '../assets/images/hero-2.jpg'; 
-import EmaarImage from '../assets/images/Emaar.jpg';
-import AljiImage from '../assets/images/Alji-mi-real-Estate.jpg';
-import DubaiProperties from '../assets/images/Dubai-Properties.jpg';
-import EagleHills from '../assets/images/Eagle-Hills-logo.jpg';
-import Bloom from '../assets/images/Bloom.jpg';
-import Samana from '../assets/images/Samana-Logo.jpg';
-import Baraka from '../assets/images/Baraka-Logo-150x150.jpg';
-import Apartment1 from '../assets/images/apartment1.jpeg';
-import Apartment2 from '../assets/images/apartment2.png';
-import Apartment3 from '../assets/images/apartment3.png';
-import logo from '../assets/images/pure-home-logo.png'; // Adjust the path as necessary
+import heroImage from '../assets/Images/hero-image.jpg'; 
+import EmaarImage from '../assets/Images/Emaar.jpg';
+import AljiImage from '../assets/Images/Alji-mi-real-Estate.jpg';
+import DubaiProperties from '../assets/Images/Dubai-Properties.jpg';
+import EagleHills from '../assets/Images/Eagle-Hills-logo.jpg';
+import Bloom from '../assets/Images/Bloom.jpg';
+import Samana from '../assets/Images/Samana-Logo.jpg';
+import Baraka from '../assets/Images/Baraka-Logo-150x150.jpg';
+import Apartment1 from '../assets/Images/apartment1.jpeg';
+import Apartment2 from '../assets/Images/apartment2.png';
+import Apartment3 from '../assets/Images/apartment3.png';
+import logo from '../assets/Images/pure-home-logo.png'; // Adjust the path as necessary
 
 function HomePage() {
   return (
