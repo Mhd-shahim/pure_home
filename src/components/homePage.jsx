@@ -6,7 +6,7 @@ import heroImage from '../assets/Images/hero-image.jpg';
 import EmaarImage from '../assets/Images/Emaar.jpg';
 import AljiImage from '../assets/Images/Alji-mi-real-Estate.jpg';
 import DubaiProperties from '../assets/Images/Dubai-Properties.jpg';
-import EagleHills from '../assets/Images/Eagle-Hills-logo.jpg';
+import EagleHills from '../assets/Images/Eagle-Hills-Logo.jpg';
 import Bloom from '../assets/Images/Bloom.jpg';
 import Samana from '../assets/Images/Samana-Logo.jpg';
 import Baraka from '../assets/Images/Baraka-Logo-150x150.jpg';
